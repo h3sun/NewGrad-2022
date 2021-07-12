@@ -8,7 +8,9 @@ There are several other similar repos on GitHub, including: https://github.com/c
 
 If you want to contribute, please submit a pull request.
 
- Good luck on job hunting and your lives!
+Remember, you are only one PR away from landing a job interview, obtaining an offer, starting your career, and eventually making impact on the world! 
+
+Good luck on job hunting and your lives!
 
 
 
