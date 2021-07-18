@@ -6,7 +6,7 @@ We got this idea from PittCSC's repo: https://github.com/pittcsc/NewGrad-2021. (
 
 There are several other similar repos on GitHub, including: https://github.com/coderQuad/New-Grad-Positions-2022. There is also a repo that focuses on Quant jobs specifically: https://github.com/quantprep/quantnewgrad2022. Do check these repos when looking for jobs. We will also try our best to update the information as quickly as possible.
 
-If you want to contribute, please submit a pull request.
+If you want to contribute, please submit a pull request, or you can share this repo with your friends, so that more people can benefit from it.
 
 Remember, you are only one PR away from landing a job interview, obtaining an offer, starting your career, and eventually making impact on the world! 
 
@@ -99,15 +99,15 @@ Good luck on job hunting and your lives!
 | Formlabs               | Somerville, Raleigh-Durham | [Algorithms Engineer](https://careers.formlabs.com/job/3209155/apply/), [Software Engineer](https://careers.formlabs.com/job/3201594/apply/), |                                                              |
 | Vatic Labs             |                            | [Software Engineer](http://www.vaticlabs.ai/careers/53508?gh_jid=53508), [Algorithmic Trader](http://www.vaticlabs.ai/careers/72038?gh_jid=72038), [Quant Researcher](http://www.vaticlabs.ai/careers/72038?gh_jid=72038), |                                                              |
 | Blackbaud              |                            |                                                              | Not available yet                                            |
-| Pocket Gems            |                            |                                                              |                                                              |
-| LinkedIn               |                            |                                                              |                                                              |
-| Equitable              |                            |                                                              |                                                              |
-| Kensho                 |                            |                                                              |                                                              |
+| Pocket Gems            | San Francisco              | [Software Engineer](https://boards.greenhouse.io/pocketgems/jobs/3157079) |                                                              |
+| LinkedIn               |                            |                                                              | Not available yet                                            |
+| Equitable              |                            |                                                              | Not available yet                                            |
+| Kensho                 |                            |                                                              | Not available yet                                            |
 | Confluent              |                            |                                                              |                                                              |
-| Deutsche Bank          |                            |                                                              |                                                              |
+| Deutsche Bank          |                            |                                                              | Not available yet                                            |
 | Cubist                 |                            |                                                              |                                                              |
-| DoorDash               |                            |                                                              |                                                              |
-| X                      |                            |                                                              |                                                              |
+| DoorDash               |                            | [Dasher](https://www.doordash.com/dasher/signup/?utm_source=dx_signup_text_cx_home) |                                                              |
+| X Company              |                            |                                                              |                                                              |
 | NerdWallet             |                            |                                                              |                                                              |
 | Box                    |                            |                                                              |                                                              |
 | Paypal                 |                            |                                                              |                                                              |
