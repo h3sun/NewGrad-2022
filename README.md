@@ -108,13 +108,15 @@ Good luck on job hunting and your lives!
 | Cubist                 |                            |                                                              |                                                              |
 | DoorDash               |                            | [Dasher](https://www.doordash.com/dasher/signup/?utm_source=dx_signup_text_cx_home) |                                                              |
 | X Company              |                            |                                                              |                                                              |
-| NerdWallet             |                            |                                                              |                                                              |
-| Box                    |                            |                                                              |                                                              |
-| Paypal                 |                            |                                                              |                                                              |
+| NerdWallet             |                            |                                                              | Not available yet                                            |
+| Box                    |                            |                                                              | Not available yet                                            |
+| Paypal                 |                            |                                                              | Not available yet                                            |
 | Roblox                 |                            |                                                              |                                                              |
 | Unity Technologies     |                            |                                                              |                                                              |
 | Point72                |                            |                                                              |                                                              |
 | Brex                   |                            | [Software Engineer, New Grad (Remote)](https://www.brex.com/careers/engineering/5319155002?gh_jid=5319155002) |                                                              |
 | Wealthfront            |                            |                                                              |                                                              |
-| Dropbox                |                            |                                                              |                                                              |
-| Grubhub                | Chicago, New York, Boston  | [Software Engineer](https://careers-grubhub.icims.com/jobs/11919/software-engineer-i/job?mobile=false&width=990&height=500&bga=true&needsRedirect=false&jan1offset=480&jun1offset=480) |                                                              |
+| Dropbox                |                            |                                                              | Will be available in late August                             |
+| Grubhub                | Boston, Chicago, New York  | [Software Engineer](https://careers-grubhub.icims.com/jobs/11919/software-engineer-i/job?mobile=false&width=990&height=500&bga=true&needsRedirect=false&jan1offset=480&jun1offset=480) |                                                              |
+| Morgan Stanley         | Alpharetta, New York       | [Technology Analyst - Alpharetta](https://morganstanley.tal.net/vx/candidate/apply/11926), [Technology Analyst - New York](https://morganstanley.tal.net/vx/candidate/apply/11395) | GPA 3.0/4.0 required                                         |
+| Tiktok                 |                            |                                                              | Not available yet                                            |
