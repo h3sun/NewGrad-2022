@@ -6,7 +6,7 @@ We got this idea from PittCSC's repo: https://github.com/pittcsc/NewGrad-2021. (
 
 There are several other similar repos on GitHub, including: https://github.com/coderQuad/New-Grad-Positions-2022. There is also a repo that focuses on Quant jobs specifically: https://github.com/quantprep/quantnewgrad2022. Do check these repos when looking for jobs. We will also try our best to update the information as quickly as possible.
 
-If you want to contribute, please submit a pull request, or you can share this repo with your friends, so that more people can benefit from it.
+If you want to contribute, please submit a pull request, or you can share this repo with your friends, so that more people can benefit from it. Your can also share your infomation by filling this Google Form: https://forms.gle/eYJSfQ7LDCgtnmW99
 
 Remember, you are only one PR away from landing a job interview, obtaining an offer, starting your career, and eventually making impact on the world! 
 
