@@ -14,7 +14,7 @@ Good luck on job hunting and your lives!
 
 
 
-## List of Companies and Roles in No Particular Order
+## List of Companies and Roles in Alphabetical Order
 
 | Company Name              | Location                   | Application URL                                              | Notes                                                        |
 | ------------------------- | -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
