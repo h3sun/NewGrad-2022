@@ -132,6 +132,7 @@ Good luck on job hunting and your lives!
 | Stripe                    |                            |                                                              | Not available yet                                            |
 | Tesla                     |                            |                                                              |                                                              |
 | Tiktok                    |                            |                                                              | Not available yet                                            |
+| Transperfect              |                            |                                                              | Not available yet                                            |
 | UBS                       |                            |                                                              | Website broken                                               |
 | UnifyID                   |                            |                                                              | Not available yet                                            |
 | Unity Technologies        |                            |                                                              |                                                              |
