@@ -14,7 +14,7 @@ Remember, you are only one PR away from landing a job interview, obtaining an of
 
 Good luck on job hunting and your lives!
 
-
+<span style="color:red;">Arrowstreet Capital</span>
 
 ## List of Companies and Roles in Alphabetical Order
 
