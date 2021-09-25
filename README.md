@@ -125,7 +125,8 @@ Good luck on job hunting and your lives!
 | Benchling                 |                                         |                                                              | Not available yet                                            |
 | Blackbaud                 |                                         |                                                              | Not available yet                                            |
 | Blackstone                |                                         |                                                              | Not available yet                                            |
-| Bloomberg                 |                                         |                                                              | Not available yet                                            |
+| Bloomberg                 | New York                                | [Software Engineer](https://careers.bloomberg.com/job/detail/92290)|
+                 |
 | BNP Paribas               |                                         |                                                              | Not available yet                                            |
 | Box                       |                                         |                                                              | Not available yet                                            |
 | C3.ai                     |                                         |                                                              | Not available yet                                            |
